@@ -1,4 +1,3 @@
-# Linked-List
 # Singly Linked List Implmentation in JAVA and Python:
 
 ## Singly Linked List Python Implementation
