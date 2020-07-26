@@ -1,7 +1,8 @@
 # Linked-List
 # Singly Linked List Implmentation in JAVA and Python:
 
-[## Singly Linked List Python Implementation] (https://github.com/AishwaryaJadhav9850/Linked-List/commit/a16d50d4139d77490ab60a8f95807e02d42bc23e)
+## Singly Linked List Python Implementation
+[Python Implementation](https://github.com/AishwaryaJadhav9850/Linked-List/commit/a16d50d4139d77490ab60a8f95807e02d42bc23e)
 - IDE - Spyder 3.2.6
 - Python - 3.6
 
@@ -19,6 +20,7 @@
 ****
 
 ## Singly Linked List Implemented in JAVA.
+[Java Implementation](https://github.com/AishwaryaJadhav9850/Linked-List/commit/cca9b26ccc9708c8e1eb4186fe4161dadd8b3218)
 - IDE - IntelliJ IDEA 2020.1.3
 - JAVA SE 8
 
