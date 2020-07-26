@@ -1,7 +1,7 @@
 # Linked-List
-#Singly Linked List Implmentation in JAVA and Python:
+# Singly Linked List Implmentation in JAVA and Python:
 
-#Singly Linked List Python Implementation
+## Singly Linked List Python Implementation
 IDE - Spyder 3.2.6
 Python - 3.6
 Methods Implemented:
@@ -17,7 +17,7 @@ Reverse Linked List- llist.reverse()
 
 
 
-#Singly Linked List Implemented in JAVA.
+## Singly Linked List Implemented in JAVA.
 IDE - IntelliJ IDEA 2020.1.3
 JAVA SE 8
 
