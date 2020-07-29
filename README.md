@@ -50,3 +50,21 @@
 * Delete last node of a Linked List- clist.deleteLastNode()
 
 ****
+
+## Doubly Linked List Python Implementation
+[Python Implementation](https://github.com/AishwaryaJadhav9850/Linked-List/commit/35267490e23c29c4d51bfdd85d9b97b8de2a068c)
+- IDE - Spyder 3.2.6
+- Python - 3.6
+
+### Methods Implemented:
+* Doubly Linked List Creation
+* Display Linked List - d.display()
+* Display Reverse Linked List - d.reverseDisplay()
+* Insert node at the end of Linked List - d.insertLast()
+* Insert node at the beginning of a Linked List - d.insertFirst()
+* Insert node after a specific node in the Linked List - d.insertAfterNode()
+* Delete a specific node in a Linked List - d.deleteNode()
+* Delete first node of a Linked List - d.deleteFirst()
+
+****
+
