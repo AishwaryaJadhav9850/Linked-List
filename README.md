@@ -1,4 +1,4 @@
-# Singly Linked List Implmentation in JAVA and Python:
+# Linked List Implmentation in Python & Java:
 
 ## Singly Linked List Python Implementation
 [Python Implementation](https://github.com/AishwaryaJadhav9850/Linked-List/commit/a16d50d4139d77490ab60a8f95807e02d42bc23e)
